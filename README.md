@@ -1,0 +1,1 @@
+If you dont know how to add the plugin just click on my file named "UNIVERSAL SHIT" then once you click on it download the raw file. Once download go to workspace>UC>Plugins then paste that file and it will automatically load when executing usercreated. To get rid of it delete/remove the file from Plugins.
